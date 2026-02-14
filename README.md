@@ -1,7 +1,7 @@
 <div align="center">
 
 # MOHAMEDALFATEH T. M. SAEED
-### Ph.D. Candidate | Applied AI/ML Engineer | Computer Vision & Production ML
+### Research Scholar @ TÜBİTAK | Applied AI/ML Engineer, Data Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohamedalfatehSaeed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.afateh.tech)
